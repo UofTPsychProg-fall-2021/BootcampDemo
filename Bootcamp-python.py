@@ -3,7 +3,7 @@
 # written by Katherine Duncan 12/09/21
 # based on tutorial developed by Mike Mack
 
-#%% python as a calculator 
+#%% python as a calculator
 2+2
 (103-3*5)/4
 7/3
@@ -18,7 +18,7 @@ math.sqrt(9)
 math.pow(4,2)
 
 
-#%% beyond arithmetic 
+#%% beyond arithmetic
 25 > 5
 25 < 5
 5 < 15 < 25
@@ -38,7 +38,7 @@ Use python to calculate:
 
 
 '''
-Use python to determine 
+Use python to determine
 if 81 multiplied by 12 is greater than 2000
 if 435 divided by 5 is less than 90
 if at least one of the above inequalities is false
@@ -83,7 +83,7 @@ Using snake case names, create one integer and two string variables
 
 try using the "+" operator to combine the two string variables; what happens
 
-try using the "+" operator to combine a string and a integer variable; what happens 
+try using the "+" operator to combine a string and a integer variable; what happens
 '''
 
 
@@ -135,5 +135,5 @@ use slicing to get the first and last values stored in list a
 
 replace the final element in list data with list a
 
-*Advanced* use indexing to find the second value stored in the first element of list data 
+*Advanced* use indexing to find the second value stored in the first element of list data
 '''
