@@ -11,7 +11,7 @@ sqrt(36)
 
 # need to add the math library to do some arithmetic!
 import math
-math.sqrt(36)
+math.sqrt(9)
 
 4**2
 math.pow(4,2)
