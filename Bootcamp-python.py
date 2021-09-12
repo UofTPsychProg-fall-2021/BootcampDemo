@@ -125,7 +125,6 @@ data = [[456,875,549,490],[876,1092,763,889],[1119,568,688,13]]
 fridge = ['apples','milk', 'bacon']
 'apples' in fridge
 
-data[2]=a
 
 #%% try it yourself
 '''
