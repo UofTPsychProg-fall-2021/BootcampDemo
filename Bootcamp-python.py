@@ -7,7 +7,7 @@
 2+2
 (103-3*5)/4
 7/3
-sqrt(36)
+sqrt(48)
 
 # need to add the math library to do some arithmetic!
 import math
